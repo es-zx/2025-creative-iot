@@ -18,5 +18,8 @@ https://aistudio.google.com/u/0/prompts/new_chat?pli=1
 Telegram
 https://web.telegram.org/k/
 
+Telegram Chat ID
+https://t.me/userinfobot
+
 Telegram Bot
 https://t.me/BotFather
