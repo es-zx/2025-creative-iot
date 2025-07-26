@@ -14,6 +14,9 @@ https://code.visualstudio.com/
 python
 https://www.python.org/downloads/
 
+mobaxterm
+https://mobaxterm.mobatek.net/download-home-edition.html
+
 ## Day 2 會用到的連結
 Gemini
 https://aistudio.google.com/u/0/prompts/new_chat?pli=1
