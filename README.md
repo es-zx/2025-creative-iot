@@ -1,7 +1,9 @@
 # 2025-creative-iot
 ## 行前準備
 必需品：電腦
+
 建議攜帶：手機充電器、Type-C 線、USB 攝影機
+
 ## Day 1 會用到的連結
 樹莓派 SD 卡燒錄軟體
 https://www.raspberrypi.com/software/
