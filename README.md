@@ -29,3 +29,7 @@ https://t.me/userinfobot
 
 Telegram Bot
 https://t.me/BotFather
+
+## Day 3 會用到的連結
+ThingSpeak
+https://thingspeak.com/
