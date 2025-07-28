@@ -18,6 +18,10 @@ mobaxterm
 https://mobaxterm.mobatek.net/download-home-edition.html
 
 ## Day 2 會用到的連結
+ThingSpeak
+https://thingspeak.com/
+
+## Day 3 會用到的連結
 Gemini
 https://aistudio.google.com/u/0/prompts/new_chat?pli=1
 
@@ -29,7 +33,3 @@ https://t.me/userinfobot
 
 Telegram Bot
 https://t.me/BotFather
-
-## Day 3 會用到的連結
-ThingSpeak
-https://thingspeak.com/
