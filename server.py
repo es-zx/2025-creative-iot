@@ -29,13 +29,6 @@ while True:
         if data:
             command = data.decode().strip()
             control_led(command)
-            # 新增：根據指令回傳訊息給 client
-            if command == "on":
-                client_socket.send("LED 已開啟".encode())
-            elif command == "off":
-                client_socket.send("LED 已關閉".encode())
-            else:
-                client_socket.send(f"未知指令: {command}".encode())
     except KeyboardInterrupt:
         break
 
