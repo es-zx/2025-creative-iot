@@ -45,8 +45,6 @@ while True:
         if data:
             command = data.decode().strip()
             control_led(command)
-            # 傳送收到的指令到 Telegram bot
-            send_to_telegram(f"收到指令: {command}")
     except KeyboardInterrupt:
         break
 
