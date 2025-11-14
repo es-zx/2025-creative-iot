@@ -7,7 +7,7 @@ client_socket.connect(server_address)
 
 while True:
     sentence = input("請輸入句子（Ctrl+C 結束）：")
-    command = ask_gemini(f"請判斷以下句子是正面還是負面，只能回答'on'或'off'，正面請回答'on'，負面請回答'off'：{sentence}")
+    command = ask_gemini(f"請判斷輸入中的行為是否安全，只能回答'on'或'off'，安全請回答'on'，不安全請回答'off'：{sentence}")
     print(f"LLM送出指令：{command}")
     client_socket.send(command.strip().encode())
 
